@@ -1,16 +1,26 @@
-## Hi there 👋
+# Burla Srivar
 
-<!--
-**Srivar-Burla/Srivar-Burla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Product Manager at ICICI Bank, with five years across mobile UX, 
+digital payments, and API platform work for international geographies.
 
-Here are some ideas to get you started:
+Currently learning to build, to complement years of working across 
+The product stack with the ability to actually ship things myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What's here
+
+**personal-finance-tracker** — a transaction tracking app built on 
+FastAPI and PostgreSQL, with a React frontend in progress.
+
+**vaani** — a voice assistant built end-to-end on 
+Sarvam AI's STT, translate, and TTS stack. Multilingual by design.
+
+---
+
+## Background
+
+- 🏦 PM at ICICI Bank — Mobile UX → Payments → API Platform
+- 🎓 Aerospace Engineering, IIT Kanpur
+- 🏹 Former national-level archer, Karnataka
+- 📍 Bangalore
