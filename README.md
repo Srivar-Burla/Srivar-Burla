@@ -10,11 +10,11 @@ The product stack with the ability to actually ship things myself.
 
 ## What's here
 
-**personal-finance-tracker** — a transaction tracking app built on 
-FastAPI and PostgreSQL, with a React frontend in progress.
-
 **vaani** — a voice assistant built end-to-end on 
 Sarvam AI's STT, translate, and TTS stack. Multilingual by design.
+
+**personal-finance-tracker** — a transaction tracking app built on 
+FastAPI and PostgreSQL, with a React frontend in progress.
 
 ---
 
